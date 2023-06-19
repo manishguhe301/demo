@@ -3,61 +3,6 @@ import styled from 'styled-components';
 import Logo from '../assets/logo.svg';
 import SearchIcon from '../assets/search.svg';
 
-// const StyledWrapper = styled.div`
-//   height: 80px;
-//   background-color: #ffffff;
-//   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.04);
-//   display: flex;
-//   align-items: center;
-//   justify-content: space-evenly;
-// `;
-
-// const NavItems = styled.div`
-//   display: flex;
-// `;
-
-// const StyledItem = styled.p`
-//   color: #4d4f50;
-//   font-weight: 400;
-//   font-size: 16px;
-//   margin-right: 20px;
-//   cursor: pointer;
-//   :hover {
-//     text-decoration: underline;
-//   }
-// `;
-
-// const SearchWrapper = styled.div`
-//   position: relative;
-// `;
-
-// const StyledInput = styled.input`
-//   border: 1px solid #dedfe1;
-//   border-radius: 20px;
-//   height: 36px;
-//   width: 293px;
-//   padding-left: 40px; /* Add left padding to make space for the search icon */
-//   outline: none;
-//   color: #a1a2a4;
-// `;
-
-// const SearchIconImg = styled.img`
-//   position: absolute;
-//   left: 16px; /* Adjust as needed */
-//   top: 10px; /* Adjust as needed */
-// `;
-
-// const StyledButton = styled.button`
-//   background: #faaa00;
-//   border-radius: 6px;
-//   outline: none;
-//   border: none;
-//   color: #ffffff;
-//   padding: 4px 20px 4px 20px;
-//   width: 77px;
-//   height: 34px;
-//   margin-left: 16px;
-// `;
 
 const StyledWrapper = styled.div`
   height: 80px;
