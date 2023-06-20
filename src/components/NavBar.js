@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Logo from '../assets/logo.svg';
 import SearchIcon from '../assets/search.svg';
 
+
 const StyledWrapper = styled.div`
   height: 80px;
   background-color: #ffffff;
